@@ -83,6 +83,6 @@ Don't forget to give the project a star! ⭐
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📞 Contact
-Aditya Patil - [adityabhanudas610@gmail.com](mailto:adityabhanudas610@gmail.com)
+Aditya Patil - [adityabhanudas610@gmail.com](mailto:adityabhanudas610@gmail.com) | [LinkedIn](https://www.linkedin.com/in/aditya-patil6100)
 Project Link: [https://github.com/aditya6100/SalesLens](https://github.com/aditya6100/SalesLens)
 
